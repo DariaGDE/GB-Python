@@ -1,0 +1,6 @@
+Ivanov 40000
+Sidorov 19000
+Andreev 45000
+Davudov 14000
+Mishukov 14500
+Kolesnikov 19100
